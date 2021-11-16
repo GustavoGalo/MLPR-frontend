@@ -18,6 +18,6 @@ $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-Para melhor experiencia, é recomendado executar o [Backend](https://github.com/GustavoGalo/MLPR-backend) juntamemento ao front end
+Para melhor experiência, é recomendado executar o [Backend](https://github.com/GustavoGalo/MLPR-backend) juntamemente ao front end
 
 
