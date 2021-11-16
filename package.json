@@ -1,5 +1,5 @@
 {
-  "name": "mlrp-frontend",
+  "name": "mlpr-frontend",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,13 +8,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@pathofdev/react-tag-input": "^1.0.7",
     "next": "12.0.3",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@types/node": "16.11.7",
     "@types/react": "17.0.34",
+    "@types/react-dom": "^17.0.11",
+    "@types/styled-components": "^5.1.15",
+    "babel-plugin-styled-components": "^1.13.3",
     "eslint": "7.32.0",
     "eslint-config-next": "12.0.3",
     "typescript": "4.4.4"
