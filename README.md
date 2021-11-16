@@ -10,6 +10,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Clone este repositório
 $ https://github.com/GustavoGalo/MLPR-frontend.git
 
+# Acesse a pasta do projeto no terminal/cmd
+$ cd MLPR-frontend
+
 # Instale as dependências
 $ npm install
 
